@@ -3,7 +3,7 @@
 
 A drum kit simulator made using plain HTML, CSS and Javascript.
 
-![GitHub pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://sahil-sagwekar2652.github.io/Drum-kit/)
 
 ## Tech 
 ![Tech](https://skillicons.dev/icons?i=html,css,js&theme=light)
